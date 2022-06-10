@@ -13,6 +13,7 @@
 		B291726D2853FFB900AB0BD3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B291726B2853FFB900AB0BD3 /* Main.storyboard */; };
 		B291726F2853FFBA00AB0BD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B291726E2853FFBA00AB0BD3 /* Assets.xcassets */; };
 		B29172722853FFBA00AB0BD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B29172702853FFBA00AB0BD3 /* LaunchScreen.storyboard */; };
+		B291727A285401AC00AB0BD3 /* MyShapeLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2917279285401AC00AB0BD3 /* MyShapeLayer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B291726E2853FFBA00AB0BD3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B29172712853FFBA00AB0BD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B29172732853FFBA00AB0BD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B2917279285401AC00AB0BD3 /* MyShapeLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyShapeLayer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B29172652853FFB900AB0BD3 /* AppDelegate.swift */,
 				B29172672853FFB900AB0BD3 /* SceneDelegate.swift */,
 				B29172692853FFB900AB0BD3 /* ViewController.swift */,
+				B2917279285401AC00AB0BD3 /* MyShapeLayer.swift */,
 				B291726B2853FFB900AB0BD3 /* Main.storyboard */,
 				B291726E2853FFBA00AB0BD3 /* Assets.xcassets */,
 				B29172702853FFBA00AB0BD3 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B291726A2853FFB900AB0BD3 /* ViewController.swift in Sources */,
+				B291727A285401AC00AB0BD3 /* MyShapeLayer.swift in Sources */,
 				B29172662853FFB900AB0BD3 /* AppDelegate.swift in Sources */,
 				B29172682853FFB900AB0BD3 /* SceneDelegate.swift in Sources */,
 			);
